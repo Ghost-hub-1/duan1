@@ -1,0 +1,24 @@
+/* style.css */
+header,
+footer {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+}
+
+main {
+  padding: 10px;
+}
+
+.highlight {
+  color: rgb(167, 12, 12);
+  font-weight: bold;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
